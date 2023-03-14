@@ -1,0 +1,35 @@
+Datensätze zur Masterarbeit:
+"Die Implementierung eines Zweitveröffentlichungsservice an Universitätsbibliotheken - Eine Analyse am Beispiel der UB J.C. Senckenberg vor dem Hintergrund vergleichbarer Serviceangebote
+
+DOI der Datenpublikation:
+https://doi.org/10.18452/25761
+
+DOI der Textpublikation:
+https://doi.org/10.18452/25761
+
+
+Abstract:
+Das Ziel der Arbeit war eine Übersicht über Umfang und Implementierung von Zweitveröffentlichungsservice an Universitätsbibliotheken. Der Fokus lag auf Integration, Umfang und Automatisierungsmöglichkeiten.
+Die gewonnenen Erkenntnisse wurden im Rahmen einer Pilotstudie für die Einführung eines Zweitveröffentlichungsservice an der UB J.C. Senckenberg erprobt.
+
+Ort:
+Humboldt-Universtät zu Berlin (https://ror.org/01hcx6992)
+
+Enthaltene Datensätze:
+
+Interviews:
+- Transkripte der Interviews (MaxQDA Export)
+- Codesystem
+- Tabellarische Übersicht über die Einrichtungen
+
+Pilotstudie:
+- Titellisten der Pilotstudie
+- Auswertung der ZV-Optionen für die Pilotstudie
+
+Methode der Datensammlung:
+- Leitfadeninterviews
+- Pilotstudie
+
+Erhebungszeitraum:
+Interviews: 01.03.2022 - 27.04.2022
+Pilotstudie: 01.03.2022 - 10.06.2022
